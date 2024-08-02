@@ -15,9 +15,9 @@
 
 
 <!--Start Intro-->               
-<p align="left">Systems Engineering student at Universidad del Valle de Atemajac and majoring in computer programming, in my professional career I have focused on web/software development. 
+<p align="left">Systems Engineering student at Universidad del Valle de Atemajac with a major in software development. In my professional career I have focused on web/software development. 
 
-My technical skills are focused on Back-End, skills strengthened with updated certifications from Alura. I value innovation and continuous improvement, and strive to collaborate with teams to achieve common goals and maintain high quality standards. Currently, I am preparing to delve deeper into back-end development through a Meta specialization on Coursera. </p>
+My skills are focused on Back-End, skills strengthened with updated certifications from Alura. I value innovation and continuous improvement, and strive to collaborate with teams to achieve common goals and maintain high quality standards. Currently, I am preparing to delve deeper into back-end development through a Meta specialization on Coursera. </p>
 
 - ✨ Student of life :)
 - 🧠 I’m currently learning many things, Romans 12:2.
