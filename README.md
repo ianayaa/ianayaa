@@ -3,7 +3,7 @@
 
 <!--Left image-->
 <div>
-  <img align="right" width="40%" top="800px" src="https://img.freepik.com/premium-photo/snoopy-cartoon-character_981061-11532.jpg?w=360">
+  <img align="right" width="40%" top="800px" src="https://github.com/ianayaa/ianayaa/blob/main/snoopy-computer.png?raw=true">
 </div>
 
 <!--Header Name-->
