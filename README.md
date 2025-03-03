@@ -20,7 +20,7 @@
 My skills are focused on Back-End, skills strengthened with updated certifications from Alura. I value innovation and continuous improvement, and strive to collaborate with teams to achieve common goals and maintain high quality standards. Currently, I am preparing to delve deeper into back-end development through a Meta specialization on Coursera. </p>
 
 - ✨ Student of life :)
-- 🧠 I’m currently learning many things, Romans 12:2.
+- 🧠 I’m currently learning Software Engineering. 
 - 💁‍♂️ Student of Systems Engineering at UNIVA
 - 💻 Visit my [Portfolio](#) for more details about me.
 <!--End Intro-->
